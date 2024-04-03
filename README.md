@@ -9,21 +9,10 @@ Este é um aplicativo de consulta de disponibilidade de cabeamento para um deter
 Pré-requisitos
 Python 3.x instalado em seu sistema. Você pode baixar o Python em python.org .
 Passos de Instalação
-Clone este repositório em sua máquina local usando o seguinte comando:
+Clone este repositório em sua máquina local:
 
-festa
-
-Copiar código
-git clone https://github.com/seuusuario/seurepositorio.git
-Substitua seuusuarioe seurepositoriopelos seus detalhes de usuário e repositório do GitHub.
 
 Navegue até o diretório do projeto:
-
-festa
-
-Copiar código
-cd seurepositorio
-Instale as dependências necessárias usando o pip:
 
 
 Copiar código
